@@ -1,0 +1,3 @@
+delete the file hello.txt
+delete the file test.txt
+delete the file hi.txt
